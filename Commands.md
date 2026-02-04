@@ -101,4 +101,6 @@ GitHub repository ---&gt; Clone ---&gt; Changes ---&gt; Add ---&gt; Commit ---&g
 
 <h2>Fork</h2>
 
-<p>A fork is a new repository that shares code and visibility settings with the original "upstream" repository. A fork is a rough copy.</p>
+<p>A fork is a new repository that shares code and visibility settings with the original "upstream" repository. A fork is a rough copy.</p></br>
+
+<b>Author</b> Adarsh
